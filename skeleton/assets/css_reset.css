@@ -1,0 +1,28 @@
+
+
+
+body, h1, h2, ul, header, ol, input, li, img, section,
+aside {
+  margin: 0;
+  padding: 0;
+  border: 0;
+
+}
+
+
+h1, h2, ul, header, ol, input, li, img, section,
+aside  {
+  font-family: inherit;
+}
+
+ol, ul, li {
+  list-style: none;
+}
+
+body {
+  line-height: 1.5;
+}
+
+img {
+  width: 100%;
+}
